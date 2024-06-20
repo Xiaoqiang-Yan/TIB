@@ -6,7 +6,7 @@ numpy==1.19.1
 tqdm==4.48.0
 scipy==1.1.0
 
-
+   
 
 ## TIB:Cross-modal Emotion Clustering via Twin Information Bottleneck Method
 > **Authors:**
