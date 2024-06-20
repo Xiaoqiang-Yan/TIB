@@ -1,4 +1,4 @@
-# TIB We provide a demo of TIB method based on CMU-mosi dataset.  Run main.py to show the training process of the model.
+# We provide a demo of TIB method based on CMU-mosi dataset.  Run main.py to show the training process of the model.
 
 requirement:
 pytorch==1.0.0
